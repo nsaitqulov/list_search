@@ -12,4 +12,4 @@ def find_max_index(data):
             a = data[i]
         i += 1
     return data.index(a)
-print(find_max_index([6, 8, 7, 4, 0]))
+print(find_max_index([6, 8, 7, 4, 0])) 
