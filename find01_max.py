@@ -12,4 +12,4 @@ def find_max(data):
             mx = data[i]
         i += 1
     return mx
-print(find_max([12, 2, 5, 2, 7, 9, 1]))
+print(find_max([12, 2, 5, 2, 7, 9, 1])) 
