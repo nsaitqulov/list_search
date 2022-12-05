@@ -17,5 +17,5 @@ def find_max_min_sum(data):
             b = data[i]
         
     return a + b
-print(find_max_min_sum([2, 7, 3, 4, 9]))
+print(find_max_min_sum([2, 7, 3, 4, 9, 12]))
             
